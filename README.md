@@ -1,3 +1,2 @@
-# Portfolio
-This Projects in the repository It's an example of work. Data Analysis which was created to bring the knowledge learned Let's show the skills that can be done. 
-in this repository There will be examples of making a dashboard, using the sql language, using the R language to make predictions for Churn models, using the Python language to make predictions about NBA Salary.
+# Portfolio 
+The projects in this repository serve as examples of my work in data analysis. They were created to showcase the knowledge and skills I have acquired. Within this repository, you will find examples of creating dashboards, using SQL for data analysis, utilizing the R language for churn prediction models, and use Python for NBA salary predictions.
